@@ -1,0 +1,17 @@
+{
+    "name": "malik/latihan7",
+    "autoload": {
+        "psr-4": {
+            "Malik\\Latihan7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "malikaziz"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^6.1"
+        
+    }
+}
